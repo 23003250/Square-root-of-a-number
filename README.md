@@ -31,7 +31,7 @@ square()
 ```
 
 ## Output:
-![output](/Screenshot%202023-07-24%20081347.jpg)
+![output](/Screenshot%202023-07-26%20201724.jpg)
 
 
 ## Result:
